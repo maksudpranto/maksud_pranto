@@ -5,12 +5,13 @@ title: Resume
 ---
 ## Career Objectives:
 ---
-To obtain a challenging position for a good career where a strong sense of responsibility and commitment is required, which could enable me to develop my skill and enrich my creativity. My aim is to build an emphatic career as a Software QA Engineer where I can explore plenty of options in this sector which will make me a worthy professional resource. <br>
+To obtain a challenging position for a good career where a strong sense of responsibility and commitment is required, which could enable me to develop my skill and enrich my creativity. My aim is to build an emphatic career as a Software QA Engineer where I can explore plenty of options in this sector which will make me a worthy professional resource. <br><br>
 
 
 ---
 ## Skills:
 ---
+<br>
 ***Programming Language:*** Experience in Python: Object-Oriented Programming.<br><br>
 ***Software Testing:*** Working knowledge about SDLC and STLC process. Manual Testing, Unit, Integration, System, Acceptance, Regression, Functional, Non-Functional, Smoke and Sanity Testing, Knowledge about different Black Box testing techniques like – Boundary Value Analysis, Equivalence Partitioning, State Transition. Knowledge about V-Model, Waterfall, Agile Model and SCRUM. Basic Knowledge about JIRA.<br><br>
 ***API Testing:*** API Testing using Postman and SoapUI.<br><br>
