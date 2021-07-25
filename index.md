@@ -35,7 +35,7 @@ To obtain a challenging position for a good career where a strong sense of respo
 ***Duration:*** 2018 (February – July)<br>
 
 ---
-<br> ## EDUCATION
+## EDUCATION
 ---
 ### East West University
 *Bachelor of Science in Computer Science & Engineering | 2014 - 2019*  
@@ -46,7 +46,6 @@ To obtain a challenging position for a good career where a strong sense of respo
 
 ### Kashiani G.C. Pilot High School
 *S.S.C. in Science | 2009 - 2011*  
-
 <br />
 
 ---
