@@ -71,7 +71,7 @@ To obtain a challenging position for a good career where a strong sense of respo
 ## Research Work  
 ---
 <br>
-***Title: ***HELLO: An Android-based Mobile Application for Autism Individuals to Improve Socio- Communicational Learnability in Bangladesh– accepted by The 7th International Conference on Computer and Communications Management (ICCCM 2019) held in Bangkok, Thailand. <br>
+***Title:***HELLO: An Android-based Mobile Application for Autism Individuals to Improve Socio- Communicational Learnability in Bangladesh– accepted by The 7th International Conference on Computer and Communications Management (ICCCM 2019) held in Bangkok, Thailand. <br>
 ***Overview:***This Android application mailny built for the autism individuals for improving their daily tasks and communication skill. The entire application is in Bengali Language so that it is easier for the user to interact.<br>
 
 ---
