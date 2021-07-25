@@ -20,19 +20,18 @@ To obtain a challenging position for a good career where a strong sense of respo
 ***Test Cases Writing:*** Hands on experience in Writing Test Cases in Microsoft Excel.<br><br>
 ***Document:*** Excellent in Microsoft Word, Power Point and Excel.<br><br>
 ***Database & Web:*** Knowledge about SQL Operation. Experience in HTML-5, CSS-3, Bootstrap, Responsive Design.<br><br>
-***Others*** Experience in Basic Linux Operation. Knowledge about Android and PC Application.
+***Others*** Experience in Basic Linux Operation. Knowledge about Android and PC Application.<br><br>
 
 ---
-## EXPERIENCE
+## Professional Certification
 ---
-
-### Therap (BD) Ltd.  
-***Software Engineer, QA (Oct 2019 - Present)*** &middot;	***Full-time***   
-
-* Has been the primary QA personnel responsible for a number of re-designed modules of my team
-* Has assisted an external team at Therap for one of their re-designed modules 
-* Find scopes of test automation and prepare test automation scripts using Selenium WebDriver (Java)
-* Guide new QA members in the team
+***Course Name:*** Software Testing & Quality Assurance.
+***Institution:***BITM (BASIS Institute of Technology & Management).
+***Duration:*** 2021 (May– July)
+------
+***Course Name:*** Responsive Web Design..
+***Institution:***Creative IT Institute..
+***Duration:*** 2018 (February – July)
 
 ***Associate Software Engineer, QA (Sep 2018 – Sep 2019)*** &middot;	***Full-time*** 
 * Perform exploratory testing and, document and report bugs for each assigned new
