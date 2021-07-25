@@ -28,13 +28,11 @@ To obtain a challenging position for a good career where a strong sense of respo
 <br>
 ***Course Name:*** Software Testing & Quality Assurance.<br>
 ***Institution:***BITM (BASIS Institute of Technology & Management).<br>
-***Duration:*** 2021 (May– July)<br><br><br>
+***Duration:*** 2021 (May– July)<br><br>
 
-***Course Name:*** Responsive Web Design.<br><br>
+***Course Name:*** Responsive Web Design.<br>
 ***Institution:***Creative IT Institute..<br>
 ***Duration:*** 2018 (February – July)<br>
-
-
 
 ---
 ## EDUCATION
