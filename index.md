@@ -5,7 +5,7 @@ title: Resume
 ---
 ## Career Objectives:
 To obtain a challenging position for a good career where a strong sense of responsibility and commitment is required, which could enable me to develop my skill and enrich my creativity. My aim is to build an emphatic career as a Software QA Engineer where I can explore plenty of options in this sector which will make me a worthy professional resource.
----
+
 ---
 ## EXPERIENCE
 ---
