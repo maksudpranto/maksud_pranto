@@ -25,13 +25,13 @@ To obtain a challenging position for a good career where a strong sense of respo
 ---
 ## Professional Certification
 ---
-***Course Name:*** Software Testing & Quality Assurance.
-***Institution:***BITM (BASIS Institute of Technology & Management).
-***Duration:*** 2021 (May– July)
+***Course Name:*** Software Testing & Quality Assurance.<br>
+***Institution:***BITM (BASIS Institute of Technology & Management).<br>
+***Duration:*** 2021 (May– July)<br>
 ------
-***Course Name:*** Responsive Web Design..
-***Institution:***Creative IT Institute..
-***Duration:*** 2018 (February – July)
+***Course Name:*** Responsive Web Design.<br><br>
+***Institution:***Creative IT Institute..<br>
+***Duration:*** 2018 (February – July)<br>
 
 ***Associate Software Engineer, QA (Sep 2018 – Sep 2019)*** &middot;	***Full-time*** 
 * Perform exploratory testing and, document and report bugs for each assigned new
