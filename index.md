@@ -35,7 +35,7 @@ To obtain a challenging position for a good career where a strong sense of respo
 ***Duration:*** 2018 (February – July)<br>
 
 ---
-## EDUCATION
+<br> ## EDUCATION
 ---
 ### East West University
 *Bachelor of Science in Computer Science & Engineering | 2014 - 2019*  
