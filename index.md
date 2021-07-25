@@ -25,6 +25,7 @@ To obtain a challenging position for a good career where a strong sense of respo
 ---
 ## Professional Certification
 ---
+<br>
 ***Course Name:*** Software Testing & Quality Assurance.<br>
 ***Institution:***BITM (BASIS Institute of Technology & Management).<br>
 ***Duration:*** 2021 (May– July)<br><br><br>
