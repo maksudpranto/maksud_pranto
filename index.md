@@ -37,9 +37,10 @@ To obtain a challenging position for a good career where a strong sense of respo
 ---
 ## Job Experience
 ---
-***Company*** : Quantanite Bangladesh Ltd.
-***Designation*** : Analyst
-***Duration*** : March 23,2020 – May 06, 2021
+<br>
+***Company*** : Quantanite Bangladesh Ltd.<br>
+***Designation*** : Analyst<br>
+***Duration*** : March 23,2020 – May 06, 2021<br>
 ---
 ## Education
 ---
