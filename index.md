@@ -32,7 +32,7 @@ To obtain a challenging position for a good career where a strong sense of respo
 
 ***Course Name:*** Responsive Web Design.<br>
 ***Institution:***Creative IT Institute..<br>
-***Duration:*** 2018 (February – July)<br>
+***Duration:*** 2018 (February – July)<br><br>
 
 ---
 ## EDUCATION
@@ -53,9 +53,9 @@ To obtain a challenging position for a good career where a strong sense of respo
 ## PROJECT
 ---
 * **[Selenium](https://github.com/maksudpranto/Selenium_Using_Python):** Almost all functionalities of Selenium like –Dropdown, Input box, radio button, Headless browser and others.
-* **[Basic Unit Testing](https://github.com/maksudpranto/unittest_html_report_generation): **Basic Unit Testing using Python and Generate HTML Report. Verify the Title and Login functionality.
-* **[Data Driven Testing](https://github.com/maksudpranto/data_driven_test): **Read Username and Password from Excel and use this data for login a specific URL. If login success then write Passed in excel otherwise write Failed in excel.
-* **[Behavior Driven Development](https://github.com/maksudpranto/Behaviour_Driven_Development): **Behave is one of the most popular python BDD framework similar to Cucumber and here I tried some basic BDD work in this project.
+* **[Basic Unit Testing](https://github.com/maksudpranto/unittest_html_report_generation):**Basic Unit Testing using Python and Generate HTML Report. Verify the Title and Login functionality.
+* **[Data Driven Testing](https://github.com/maksudpranto/data_driven_test):**Read Username and Password from Excel and use this data for login a specific URL. If login success then write Passed in excel otherwise write Failed in excel.
+* **[Behavior Driven Development](https://github.com/maksudpranto/Behaviour_Driven_Development):**Behave is one of the most popular python BDD framework similar to Cucumber and here I tried some basic BDD work in this project.
 
 <br />
   
