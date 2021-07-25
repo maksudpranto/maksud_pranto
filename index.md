@@ -78,6 +78,7 @@ To obtain a challenging position for a good career where a strong sense of respo
 ## Strength  
 ---
 
+<br>
 * Able to learn quickly and deliver.
 * Able to learn new technologies, tools, and techniques anytime if needed.
 * Strong communication skills in English for both writing and speaking.
