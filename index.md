@@ -67,9 +67,17 @@ Sound knowledge about different Black Box testing techniques like – Boundary V
 7. Basic automation using Katalon Studio.<br><br>
 
 <br>
-***Company*** : Quantanite Bangladesh Ltd.<br>
-***Designation*** : Analyst<br>
-***Duration*** : March 23,2020 – May 06, 2021<br><br>
+***Company*** : DreamOnline Ltd.<br>
+***Designation*** : SQA Engineer<br>
+***Duration*** : September 13,2021 – April 02,2023<br><br>
+***Responsibilities: ***
+1. Core Tester in Tokyu Sports Oasis Reservation System (WEB).<br><br>
+2. Manually perform UI and Functional testing.<br><br>
+3. Perform Load Testing using Jmeter and Security Testing using OWASP ZAP.<br><br>
+4. Writing Test Cases on MS Excel.<br><br>
+5. API Testing using Postman.<br><br>
+6. Reporting, analyzing, and prioritizing bugs and issues on Backlog by Nulab.<br><br>
+7. Core Tester on our in-house project called – Ebidyaloy (WEB, Android, iOS).<br><br>
 
 <br>
 ***Company*** : Quantanite Bangladesh Ltd.<br>
