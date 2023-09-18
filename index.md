@@ -52,11 +52,11 @@ Sound knowledge about different Black Box testing techniques like – Boundary V
 ---
 
 <br>
-**Company:** Mir Infosys Ltd.<br>
-**Client:** Grameenphone.<br>
-**Designation:** SQA Engineer<br>
-**Duration:** April 04,2022 – Running<br>
-**Responsibilities:**
+***Company:*** Mir Infosys Ltd.<br>
+***Client:*** Grameenphone.<br>
+***Designation:*** SQA Engineer<br>
+***Duration:*** April 04,2022 – Running<br>
+***Responsibilities:***
 
 1. Core software test engineer of MyGP App.<br>
 2. Testing the new and existing features of the MyGP App.<br>
@@ -107,11 +107,11 @@ Sound knowledge about different Black Box testing techniques like – Boundary V
 <br />
 
 ---
-## PROJECT
+## PROJECTS
 ---
 * **[Selenium](https://github.com/maksudpranto/Selenium_Using_Python):** Almost all functionalities of Selenium like –Dropdown, Input box, radio button, Headless browser, and others.
 * **[Basic Unit Testing](https://github.com/maksudpranto/unittest_html_report_generation):**Basic Unit Testing using Python and Generate HTML Report. Verify the Title and Login functionality.
-* **[Data Driven Testing](https://github.com/maksudpranto/data_driven_test):**Read the Username and Password from Excel and use this data for login a specific URL. If login success then write Passed in excel otherwise write Failed in excel.
+* **[Data Driven Testing](https://github.com/maksudpranto/data_driven_test):**Read the Username and Password from Excel and use this data for login a specific URL. If login success then write Passed in Excel otherwise write Failed in Excel.
 * **[Behavior Driven Development](https://github.com/maksudpranto/Behaviour_Driven_Development):**Behave is one of the most popular Python BDD frameworks similar to Cucumber and Here I tried some basic BDD work in this project.
 
 <br />
@@ -124,7 +124,7 @@ Sound knowledge about different Black Box testing techniques like – Boundary V
 ***Overview:***This Android application is built for autistic individuals to improve their daily tasks and communication skills. The entire application is in Bengali Language so that it is easier for the user to interact.<br>
 
 ---
-## Strength  
+## Strengths:
 ---
 
 <br>
