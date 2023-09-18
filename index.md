@@ -71,6 +71,7 @@ Sound knowledge about different Black Box testing techniques like – Boundary V
 ***Designation*** : SQA Engineer<br>
 ***Duration*** : September 13,2021 – April 02,2023<br><br>
 ***Responsibilities: ***
+
 1. Core Tester in Tokyu Sports Oasis Reservation System (WEB).<br>
 2. Manually perform UI and Functional testing.<br>
 3. Perform Load Testing using Jmeter and Security Testing using OWASP ZAP.<br>
