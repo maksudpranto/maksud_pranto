@@ -25,38 +25,37 @@ Hunting for a position as a Software Quality Assurance (SQA) Engineer in a fast-
 <br>
 **Programming Language:** Experience in Python: Object-Oriented Programming.<br><br>
 **Software Testing:** Hands-on Experience in UI Testing, Functional Testing, Integration, User
-Acceptance, Regression, Smoke and Sanity Testing.
-Sound knowledge about different Black Box testing techniques like – Boundary Value Analysis and equivalence Partitioning. Knowledge about V-Model, Waterfall, Agile Model and SCRUM..<br><br>
-***API Testing:*** API Testing using Postman and SoapUI.<br><br>
-***Automation:*** Basic automation testing using Selenium in Python and Katalon Studio.<br><br>
-***Database:*** MySQL.<br><br>
-***Load Testing: JMeter***
-***Security Testing: OWASP ZAP.***
-***Web Skills: HTML, CSS, Bootstrap, Responsive Design.***
-***Others*** Experience in Basic Linux Operation. Knowledge about Android and PC Applications.<br><br>
+Acceptance, Regression, Smoke and Sanity Testing.Sound knowledge about different Black Box testing techniques like – Boundary Value Analysis and equivalence Partitioning. Knowledge about V-Model, Waterfall, Agile Model and SCRUM..<br><br>
+**API Testing:** API Testing using Postman and SoapUI.<br><br>
+**Automation:** Basic automation testing using Selenium in Python and Katalon Studio.<br><br>
+**Database:** MySQL.<br><br>
+**Load Testing:** JMeter
+**Security Testing:** OWASP ZAP.
+**Web Skills:** HTML, CSS, Bootstrap, Responsive Design.
+**Others** Experience in Basic Linux Operation. Knowledge about Android and PC Applications.<br><br>
 
 ---
 ## Professional Certification
 ---
 <br>
-***Course Name:*** Software Testing & Quality Assurance.<br>
-***Institution:***BITM (BASIS Institute of Technology & Management).<br>
-***Duration:*** 2021 (May– July)<br><br>
+**Course Name:** Software Testing & Quality Assurance.<br>
+**Institution:**BITM (BASIS Institute of Technology & Management).<br>
+**Duration:** 2021 (May– July)<br><br>
 
-***Course Name:*** Responsive Web Design.<br>
-***Institution:***Creative IT Institute..<br>
-***Duration:*** 2018 (February – July)<br>
+**Course Name:** Responsive Web Design.<br>
+**Institution:**Creative IT Institute..<br>
+**Duration:** 2018 (February – July)<br>
 
 ---
 ## Job Experiences:
 ---
 
 <br>
-***Company:*** Mir Infosys Ltd.<br>
-***Client:*** Grameenphone.<br>
-***Designation:*** SQA Engineer<br>
-***Duration:*** April 04,2022 – Running<br>
-***Responsibilities:***
+**Company:** Mir Infosys Ltd.<br>
+**Client:** Grameenphone.<br>
+**Designation:** SQA Engineer<br>
+**Duration:** April 04,2022 – Running<br>
+**Responsibilities:**
 
 1. Core software test engineer of MyGP App.<br>
 2. Testing the new and existing features of the MyGP App.<br>
@@ -67,10 +66,10 @@ Sound knowledge about different Black Box testing techniques like – Boundary V
 7. Basic automation using Katalon Studio.<br>
 
 <br>
-***Company:*** DreamOnline Ltd.<br>
-***Designation:*** SQA Engineer<br>
-***Duration:*** September 13,2021 – April 02,2023<br><br>
-***Responsibilities:***
+**Company:** DreamOnline Ltd.<br>
+**Designation:** SQA Engineer<br>
+**Duration:** September 13,2021 – April 02,2023<br><br>
+**Responsibilities:**
 
 1. Core Tester in Tokyu Sports Oasis Reservation System (WEB).<br>
 2. Manually perform UI and Functional testing.<br>
@@ -81,10 +80,10 @@ Sound knowledge about different Black Box testing techniques like – Boundary V
 7. Core Tester on our in-house project called – Ebidyaloy (WEB, Android, iOS).<br>
 
 <br>
-***Company:*** Quantanite Bangladesh Ltd.<br>
-***Designation:*** Analyst<br>
-***Duration:*** March 23,2020 – May 06, 2021<br><br>
-***Responsibilities:***
+**Company:** Quantanite Bangladesh Ltd.<br>
+**Designation:** Analyst<br>
+**Duration:** March 23,2020 – May 06, 2021<br><br>
+**Responsibilities:**
 
 • Content moderation.<br>
 • Data entry.<br>
@@ -120,8 +119,8 @@ Sound knowledge about different Black Box testing techniques like – Boundary V
 ## Research Work  
 ---
 <br>
-***Title:***HELLO: An Android-based Mobile Application for Autism Individuals to Improve Socio-Communicational Learnability in Bangladesh– accepted by The 7th International Conference on Computer and Communications Management (ICCCM 2019) held in Bangkok, Thailand. <br>
-***Overview:***This Android application is built for autistic individuals to improve their daily tasks and communication skills. The entire application is in Bengali Language so that it is easier for the user to interact.<br>
+**Title:**HELLO: An Android-based Mobile Application for Autism Individuals to Improve Socio-Communicational Learnability in Bangladesh– accepted by The 7th International Conference on Computer and Communications Management (ICCCM 2019) held in Bangkok, Thailand. <br>
+**Overview:**This Android application is built for autistic individuals to improve their daily tasks and communication skills. The entire application is in Bengali Language so that it is easier for the user to interact.<br>
 
 ---
 ## Strengths:
