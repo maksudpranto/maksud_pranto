@@ -48,15 +48,15 @@ Sound knowledge about different Black Box testing techniques like – Boundary V
 ***Duration:*** 2018 (February – July)<br>
 
 ---
-## Job Experience
+## Job Experiences:
 ---
 
 <br>
-***Company:*** Mir Infosys Ltd.<br>
-***Client:*** Grameenphone<br>
-***Designation*** : SQA Engineer<br>
-***Duration*** : April 04,2022 – Running<br>
-***Responsibilities:***
+**Company:** Mir Infosys Ltd.<br>
+**Client:** Grameenphone.<br>
+**Designation:** SQA Engineer<br>
+**Duration:** April 04,2022 – Running<br>
+**Responsibilities:**
 
 1. Core software test engineer of MyGP App.<br>
 2. Testing the new and existing features of the MyGP App.<br>
@@ -81,9 +81,9 @@ Sound knowledge about different Black Box testing techniques like – Boundary V
 7. Core Tester on our in-house project called – Ebidyaloy (WEB, Android, iOS).<br>
 
 <br>
-***Company*** : Quantanite Bangladesh Ltd.<br>
-***Designation*** : Analyst<br>
-***Duration*** : March 23,2020 – May 06, 2021<br><br>
+***Company:*** Quantanite Bangladesh Ltd.<br>
+***Designation:*** Analyst<br>
+***Duration:*** March 23,2020 – May 06, 2021<br><br>
 ***Responsibilities:***
 
 • Content moderation.<br>
