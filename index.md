@@ -52,10 +52,10 @@ Sound knowledge about different Black Box testing techniques like – Boundary V
 ---
 
 <br>
-***Company*** : Mir Infosys Ltd.<br>
-***Client: Grameenphone***
+***Company:*** Mir Infosys Ltd.<br>
+***Client:*** Grameenphone<br>
 ***Designation*** : SQA Engineer<br>
-***Duration*** : April 04,2022 – Running<br><br>
+***Duration*** : April 04,2022 – Running<br>
 ***Responsibilities:***
 
 1. Core software test engineer of MyGP App.<br>
@@ -67,9 +67,9 @@ Sound knowledge about different Black Box testing techniques like – Boundary V
 7. Basic automation using Katalon Studio.<br>
 
 <br>
-***Company*** : DreamOnline Ltd.<br>
-***Designation*** : SQA Engineer<br>
-***Duration*** : September 13,2021 – April 02,2023<br><br>
+***Company:*** DreamOnline Ltd.<br>
+***Designation:*** SQA Engineer<br>
+***Duration:*** September 13,2021 – April 02,2023<br><br>
 ***Responsibilities:***
 
 1. Core Tester in Tokyu Sports Oasis Reservation System (WEB).<br>
