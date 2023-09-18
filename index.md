@@ -45,7 +45,7 @@ Sound knowledge about different Black Box testing techniques like – Boundary V
 
 ***Course Name:*** Responsive Web Design.<br>
 ***Institution:***Creative IT Institute..<br>
-***Duration:*** 2018 (February – July)<br><br>
+***Duration:*** 2018 (February – July)<br>
 
 ---
 ## Job Experience
@@ -58,26 +58,26 @@ Sound knowledge about different Black Box testing techniques like – Boundary V
 ***Duration*** : April 04,2022 – Running<br><br>
 ***Responsibilities: ***
 
-1. Core software test engineer of MyGP App.<br><br>
-2. Testing the new and existing features of the MyGP App.<br><br>
-3. Configure push notifications.<br><br>
-4. Writing Test Cases.<br><br>
-5. Writing Bug Reports.<br><br>
-6. Perform optimization tests.<br><br>
-7. Basic automation using Katalon Studio.<br><br>
+1. Core software test engineer of MyGP App.<br>
+2. Testing the new and existing features of the MyGP App.<br>
+3. Configure push notifications.<br>
+4. Writing Test Cases.<br>
+5. Writing Bug Reports.<br>
+6. Perform optimization tests.<br>
+7. Basic automation using Katalon Studio.<br>
 
 <br>
 ***Company*** : DreamOnline Ltd.<br>
 ***Designation*** : SQA Engineer<br>
 ***Duration*** : September 13,2021 – April 02,2023<br><br>
 ***Responsibilities: ***
-1. Core Tester in Tokyu Sports Oasis Reservation System (WEB).<br><br>
-2. Manually perform UI and Functional testing.<br><br>
-3. Perform Load Testing using Jmeter and Security Testing using OWASP ZAP.<br><br>
-4. Writing Test Cases on MS Excel.<br><br>
-5. API Testing using Postman.<br><br>
-6. Reporting, analyzing, and prioritizing bugs and issues on Backlog by Nulab.<br><br>
-7. Core Tester on our in-house project called – Ebidyaloy (WEB, Android, iOS).<br><br>
+1. Core Tester in Tokyu Sports Oasis Reservation System (WEB).<br>
+2. Manually perform UI and Functional testing.<br>
+3. Perform Load Testing using Jmeter and Security Testing using OWASP ZAP.<br>
+4. Writing Test Cases on MS Excel.<br>
+5. API Testing using Postman.<br>
+6. Reporting, analyzing, and prioritizing bugs and issues on Backlog by Nulab.<br>
+7. Core Tester on our in-house project called – Ebidyaloy (WEB, Android, iOS).<br>
 
 <br>
 ***Company*** : Quantanite Bangladesh Ltd.<br>
