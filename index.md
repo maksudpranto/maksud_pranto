@@ -12,12 +12,12 @@ Hunting for a position as a Software Quality Assurance (SQA) Engineer in a fast-
 ## Career Summary:
 ---
 
-● ISTQB Certified Software Test Engineer. CTFL | Certificate Number: 22-CTFL-203852-12.<br><br>
-● Working as Software Test Engineer of Grameenphone.<br><br>
-● Hands-on experience in Manual Testing (Web, Android, iOS)<br><br>
-● Excellent in writing Test Cases and Bug Reports.<br><br>
-● Sound knowledge about SDLC, STLC, Agile Methodology, and other documentation types.<br><br>
-● Professional Certification in Software Testing from BITM (Basis Institute of Technology & Management)<br><br>
+● ISTQB Certified Software Test Engineer. CTFL | Certificate Number: 22-CTFL-203852-12.<br>
+● Working as Software Test Engineer of Grameenphone.<br>
+● Hands-on experience in Manual Testing (Web, Android, iOS)<br>
+● Excellent in writing Test Cases and Bug Reports.<br>
+● Sound knowledge about SDLC, STLC, Agile Methodology, and other documentation types.<br>
+● Professional Certification in Software Testing from BITM (Basis Institute of Technology & Management)<br>
 
 ---
 ## Skills:
