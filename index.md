@@ -56,7 +56,7 @@ Sound knowledge about different Black Box testing techniques like – Boundary V
 ***Client: Grameenphone***
 ***Designation*** : SQA Engineer<br>
 ***Duration*** : April 04,2022 – Running<br><br>
-***Responsibilities: ***
+***Responsibilities:***
 
 1. Core software test engineer of MyGP App.<br>
 2. Testing the new and existing features of the MyGP App.<br>
@@ -70,7 +70,7 @@ Sound knowledge about different Black Box testing techniques like – Boundary V
 ***Company*** : DreamOnline Ltd.<br>
 ***Designation*** : SQA Engineer<br>
 ***Duration*** : September 13,2021 – April 02,2023<br><br>
-***Responsibilities: ***
+***Responsibilities:***
 
 1. Core Tester in Tokyu Sports Oasis Reservation System (WEB).<br>
 2. Manually perform UI and Functional testing.<br>
@@ -84,6 +84,12 @@ Sound knowledge about different Black Box testing techniques like – Boundary V
 ***Company*** : Quantanite Bangladesh Ltd.<br>
 ***Designation*** : Analyst<br>
 ***Duration*** : March 23,2020 – May 06, 2021<br><br>
+***Responsibilities:***
+
+• Content moderation.<br>
+• Data entry.<br>
+• Lead generation.<br>
+• Regularly reporting directly to the supervisors and manager.<br>
 
 ---
 ## Education
