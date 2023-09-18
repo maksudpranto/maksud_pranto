@@ -23,8 +23,8 @@ Hunting for a position as a Software Quality Assurance (SQA) Engineer in a fast-
 ## Skills:
 ---
 <br>
-***Programming Language:*** Experience in Python: Object-Oriented Programming.<br><br>
-***Software Testing:*** Hands-on Experience in UI Testing, Functional Testing, Integration, User
+**Programming Language:** Experience in Python: Object-Oriented Programming.<br><br>
+**Software Testing:** Hands-on Experience in UI Testing, Functional Testing, Integration, User
 Acceptance, Regression, Smoke and Sanity Testing.
 Sound knowledge about different Black Box testing techniques like – Boundary Value Analysis and equivalence Partitioning. Knowledge about V-Model, Waterfall, Agile Model and SCRUM..<br><br>
 ***API Testing:*** API Testing using Postman and SoapUI.<br><br>
