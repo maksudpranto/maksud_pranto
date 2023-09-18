@@ -5,22 +5,28 @@ title: Resume
 ---
 ## Career Objectives:
 ---
-Hunting for a position as a Software Quality Assurance (SQA) Engineer in a fast-paced organization where my skills, knowledge, and creative thinking are useful. My aim is to build an emphatic career as a Software QA Engineer. <br><br>
+Hunting for a position as a Software Quality Assurance (SQA) Engineer in a fast-paced organization where my skills, knowledge, and creative thinking are useful. My aim is to build an emphatic career as a Software QA Engineer. I am an ISTQB Certified software tester with a certification from BITM. <br><br>
 
+
+---
+## Summary of Skills:
+---
 
 ---
 ## Skills:
 ---
 <br>
 ***Programming Language:*** Experience in Python: Object-Oriented Programming.<br><br>
-***Software Testing:*** Working knowledge about SDLC and STLC process. Manual Testing, Unit, Integration, System, Acceptance, Regression, Functional, Non-Functional, Smoke and Sanity Testing, Knowledge about different Black Box testing techniques like – Boundary Value Analysis, Equivalence Partitioning, State Transition. Knowledge about V-Model, Waterfall, Agile Model and SCRUM. Basic Knowledge about JIRA.<br><br>
+***Software Testing:*** Hands-on Experience in UI Testing, Functional Testing, Integration, User
+Acceptance, Regression, Smoke and Sanity Testing.
+Sound knowledge about different Black Box testing techniques like – Boundary Value Analysis and equivalence Partitioning. Knowledge about V-Model, Waterfall, Agile Model and SCRUM..<br><br>
 ***API Testing:*** API Testing using Postman and SoapUI.<br><br>
-***Automation Testing:*** Selenium using Python, Framework: Py Test. Behavior Driven Development (BDD) using Behave in Python. Page Object Model in python. Data driven test using python. Unit Testing in Python.<br><br>
-***Android App Testing:*** Manual testing of Android Application in Real Devices and Android Studio.<br><br>
-***Test Cases Writing:*** Hands on experience in Writing Test Cases in Microsoft Excel.<br><br>
-***Document:*** Excellent in Microsoft Word, Power Point and Excel.<br><br>
-***Database & Web:*** Knowledge about SQL Operation. Experience in HTML-5, CSS-3, Bootstrap, Responsive Design.<br><br>
-***Others*** Experience in Basic Linux Operation. Knowledge about Android and PC Application.<br><br>
+***Automation:*** Basic automation testing using Selenium in Python and Katalon Studio.<br><br>
+***Database:*** MySQL.<br><br>
+***Load Testing: JMeter***
+***Security Testing: OWASP ZAP.***
+***Web Skills: HTML, CSS, Bootstrap, Responsive Design.***
+***Others*** Experience in Basic Linux Operation. Knowledge about Android and PC Applications.<br><br>
 
 ---
 ## Professional Certification
