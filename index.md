@@ -5,7 +5,7 @@ title: Resume
 ---
 ## Career Objectives:
 ---
-Hunting for a position as a Software Quality Assurance (SQA) Engineer in a fast-paced organization where my skills, knowledge, and creative thinking are useful. My aim is to build an emphatic career as a Software QA Engineer. I am an ISTQB Certified software tester with a certification from BITM. <br><br>
+Hunting for a position as a Software Quality Assurance (SQA) Engineer in a fast-paced organization where my skills, knowledge, and creative thinking are useful. My aim is to build an emphatic career as a Software QA Engineer.<br><br>
 
 
 ---
@@ -13,11 +13,11 @@ Hunting for a position as a Software Quality Assurance (SQA) Engineer in a fast-
 ---
 
 ● ISTQB Certified Software Test Engineer. CTFL | Certificate Number: 22-CTFL-203852-12.<br>
-● Working as Software Test Engineer of Grameenphone.<br>
+● Software Test Engineer of Grameenphone.<br>
 ● Hands-on experience in Manual Testing (Web, Android, iOS)<br>
 ● Excellent in writing Test Cases and Bug Reports.<br>
-● Sound knowledge about SDLC, STLC, Agile Methodology, and other documentation types.<br>
-● Professional Certification in Software Testing from BITM (Basis Institute of Technology & Management)<br>
+● Sound knowledge about SDLC, STLC, Agile Methodology, SCRUM.<br>
+● Professional Certification in Software Testing from BITM (Basis Institute of Technology & Management)<br><br>
 
 ---
 ## Skills:
@@ -29,10 +29,10 @@ Acceptance, Regression, Smoke and Sanity Testing.Sound knowledge about different
 **API Testing:** API Testing using Postman and SoapUI.<br><br>
 **Automation:** Basic automation testing using Selenium in Python and Katalon Studio.<br><br>
 **Database:** MySQL.<br><br>
-**Load Testing:** JMeter
-**Security Testing:** OWASP ZAP.
-**Web Skills:** HTML, CSS, Bootstrap, Responsive Design.
-**Others** Experience in Basic Linux Operation. Knowledge about Android and PC Applications.<br><br>
+**Load Testing:** JMeter <br><br>
+**Security Testing:** OWASP ZAP.<br><br>
+**Web Skills:** HTML, CSS, Bootstrap, Responsive Design.<br><br>
+**Others** Experience in Basic Linux Operation. 
 
 ---
 ## Professional Certification
