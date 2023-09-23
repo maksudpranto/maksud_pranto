@@ -79,7 +79,7 @@ Acceptance, Regression, Smoke and Sanity Testing.Sound knowledge about different
 4. Writing Test Cases on MS Excel.<br>
 5. API Testing using Postman.<br>
 6. Reporting, analyzing, and prioritizing bugs and issues on Backlog by Nulab.<br>
-7. Core Tester on our in-house project called – Ebidyaloy (WEB, Android, iOS).<br>
+7. Core Tester on our in-house project called – Ebidyaloy (WEB, Android, iOS).<br><br>
 
 **Company:** Quantanite Bangladesh Ltd.<br>
 **Designation:** Analyst<br>
