@@ -140,8 +140,8 @@ Acceptance, Regression, Smoke and Sanity Testing.Sound knowledge about different
 ## Reference:
 ---
 <br>
-**Amit Kumar Das**
-Senior Lecturer
-Department of Computer Science and Engineering.
-East-West University.
+**Amit Kumar Das** <br>
+Senior Lecturer<br>
+Department of Computer Science and Engineering.<br>
+East-West University.<br>
 Contact: akdas@ewubd.edu | 01727818182
