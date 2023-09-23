@@ -120,7 +120,7 @@ Acceptance, Regression, Smoke and Sanity Testing.Sound knowledge about different
 ## Research Work  
 ---
 <br>
-**Title:**HELLO: An Android-based Mobile Application for Autism Individuals to Improve Socio-Communicational Learnability in Bangladesh– accepted by The 7th International Conference on Computer and Communications Management (ICCCM 2019) held in Bangkok, Thailand. <br>
+**Title:**HELLO: An Android-based Mobile Application for Autism Individuals to Improve Socio-Communicational Learnability in Bangladesh– accepted by The 7th International Conference on Computer and Communications Management (ICCCM 2019) held in Bangkok, Thailand. <br><br>
 **Overview:**This Android application is built for autistic individuals to improve their daily tasks and communication skills. The entire application is in Bengali Language so that it is easier for the user to interact.<br>
 
 ---
@@ -135,3 +135,13 @@ Acceptance, Regression, Smoke and Sanity Testing.Sound knowledge about different
 * Very much proactive and able to execute tasks in an efficient way.
 * Good analytical abilities.
 * Excellent interpersonal skills.
+
+---
+## Reference:
+---
+<br>
+**Amit Kumar Das**
+Senior Lecturer
+Department of Computer Science and Engineering.
+East-West University.
+Contact: akdas@ewubd.edu | 01727818182
