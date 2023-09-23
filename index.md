@@ -71,6 +71,7 @@ Acceptance, Regression, Smoke and Sanity Testing.Sound knowledge about different
 **Company:** DreamOnline Ltd.<br>
 **Designation:** SQA Engineer<br>
 **Duration:** September 13,2021 – April 02,2023<br>
+
 **Responsibilities:**
 1. Core Tester in Tokyu Sports Oasis Reservation System (WEB).<br>
 2. Manually perform UI and Functional testing.<br>
@@ -82,13 +83,13 @@ Acceptance, Regression, Smoke and Sanity Testing.Sound knowledge about different
 
 **Company:** Quantanite Bangladesh Ltd.<br>
 **Designation:** Analyst<br>
-**Duration:** March 23,2020 – May 06, 2021<br><br>
+**Duration:** March 23, 2020 – May 06, 2021<br>
 **Responsibilities:**
 
-• Content moderation.<br>
-• Data entry.<br>
-• Lead generation.<br>
-• Regularly reporting directly to the supervisors and manager.<br><br>
+1. Content moderation.<br>
+2. Data entry.<br>
+3. Lead generation.<br>
+4. Regularly reporting directly to the supervisors and manager.<br><br>
 
 ---
 ## Education
