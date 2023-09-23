@@ -1,17 +1,17 @@
 ---
 layout: default
-title: Resume
+title: MD Maksud Hossain (Pranto)
 ---
 ---
 ## Career Objectives:
 ---
-Hunting for a position as a Software Quality Assurance (SQA) Engineer in a fast-paced organization where my skills, knowledge, and creative thinking are useful. My aim is to build an emphatic career as a Software QA Engineer.<br><br>
+Hunting for a position as a Software Quality Assurance (SQA) Engineer in a fast-paced organization where my skills, knowledge, and creative thinking will be impactful. My aim is to build an emphatic career as a Software Quality Assurance Engineer where I can explore plenty of options in this sector which will make me a worthy professional resource.<br><br>
 
 
 ---
 ## Career Summary:
 ---
-
+<br>
 ● ISTQB Certified Software Test Engineer. CTFL | Certificate Number: 22-CTFL-203852-12.<br>
 ● Software Test Engineer of Grameenphone.<br>
 ● Hands-on experience in Manual Testing (Web, Android, iOS)<br>
@@ -32,7 +32,7 @@ Acceptance, Regression, Smoke and Sanity Testing.Sound knowledge about different
 **Load Testing:** JMeter <br><br>
 **Security Testing:** OWASP ZAP.<br><br>
 **Web Skills:** HTML, CSS, Bootstrap, Responsive Design.<br><br>
-**Others:** Experience in Basic Linux Operation. 
+**Others:** Experience in Basic Linux Operation. <br> <br>
 
 ---
 ## Professional Certification
@@ -44,7 +44,7 @@ Acceptance, Regression, Smoke and Sanity Testing.Sound knowledge about different
 
 **Course Name:** Responsive Web Design.<br>
 **Institution:**Creative IT Institute..<br>
-**Duration:** 2018 (February – July)<br>
+**Duration:** 2018 (February – July)<br><br>
 
 ---
 ## Job Experiences:
@@ -88,7 +88,7 @@ Acceptance, Regression, Smoke and Sanity Testing.Sound knowledge about different
 • Content moderation.<br>
 • Data entry.<br>
 • Lead generation.<br>
-• Regularly reporting directly to the supervisors and manager.<br>
+• Regularly reporting directly to the supervisors and manager.<br><br>
 
 ---
 ## Education
