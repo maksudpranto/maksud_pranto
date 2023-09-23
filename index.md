@@ -32,7 +32,7 @@ Acceptance, Regression, Smoke and Sanity Testing.Sound knowledge about different
 **Load Testing:** JMeter <br><br>
 **Security Testing:** OWASP ZAP.<br><br>
 **Web Skills:** HTML, CSS, Bootstrap, Responsive Design.<br><br>
-**Others** Experience in Basic Linux Operation. 
+**Others:** Experience in Basic Linux Operation. 
 
 ---
 ## Professional Certification
