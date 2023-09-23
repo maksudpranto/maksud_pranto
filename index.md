@@ -32,7 +32,8 @@ Acceptance, Regression, Smoke and Sanity Testing.Sound knowledge about different
 **Load Testing:** JMeter <br><br>
 **Security Testing:** OWASP ZAP.<br><br>
 **Web Skills:** HTML, CSS, Bootstrap, Responsive Design.<br><br>
-**Others:** Experience in Basic Linux Operation. <br><br>
+**Others:** Experience in Basic Linux Operation. 
+<br><br>
 
 ---
 ## Professional Certification
@@ -44,7 +45,8 @@ Acceptance, Regression, Smoke and Sanity Testing.Sound knowledge about different
 
 **Course Name:** Responsive Web Design.<br>
 **Institution:**Creative IT Institute..<br>
-**Duration:** 2018 (February – July)<br><br>
+**Duration:** 2018 (February – July)
+<br><br>
 
 ---
 ## Job Experiences:
