@@ -64,7 +64,7 @@ Acceptance, Regression, Smoke and Sanity Testing.Sound knowledge about different
 3. Configure push notifications.<br>
 4. Writing Test Cases.<br>
 5. Writing Bug Reports.<br>
-6. Perform optimization tests.<br>
+6. Perform API optimization tests.<br>
 7. Basic automation using Katalon Studio.<br>
 
 <br>
@@ -79,7 +79,7 @@ Acceptance, Regression, Smoke and Sanity Testing.Sound knowledge about different
 4. Writing Test Cases on MS Excel.<br>
 5. API Testing using Postman.<br>
 6. Reporting, analyzing, and prioritizing bugs and issues on Backlog by Nulab.<br>
-7. Core Tester on our in-house project called – Ebidyaloy (WEB, Android, iOS).<br><br>
+7. Core Tester on an in-house project called – Ebidyaloy (WEB, Android, iOS).<br><br>
 
 **Company:** Quantanite Bangladesh Ltd.<br>
 **Designation:** Analyst<br>
@@ -121,7 +121,7 @@ Acceptance, Regression, Smoke and Sanity Testing.Sound knowledge about different
 ---
 <br>
 **Title:**HELLO: An Android-based Mobile Application for Autism Individuals to Improve Socio-Communicational Learnability in Bangladesh– accepted by The 7th International Conference on Computer and Communications Management (ICCCM 2019) held in Bangkok, Thailand. <br><br>
-**Overview:**This Android application is built for autistic individuals to improve their daily tasks and communication skills. The entire application is in Bengali Language so that it is easier for the user to interact.<br><br>
+**Overview:* This Android application is built for autistic individuals to improve their daily tasks and communication skills. The entire application is in Bengali Language so that it is easier for the user to interact.<br><br>
 
 ---
 ## Strengths:
