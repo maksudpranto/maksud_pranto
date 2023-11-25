@@ -56,7 +56,7 @@ Acceptance, Regression, Smoke and Sanity Testing.Sound knowledge about different
 **Company:** Mir Infosys Ltd.<br>
 **Client:** Grameenphone.<br>
 **Designation:** SQA Engineer<br>
-**Duration:** April 04,2022 – Running<br>
+**Duration:** April 04,2023 – Running<br>
 **Responsibilities:**
 
 1. Core software test engineer of MyGP App.<br>
